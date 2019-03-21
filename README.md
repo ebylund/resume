@@ -1,10 +1,10 @@
 # Erik Bylund
 
 ## A bit about me
-I fell in love with programming after taking a programming class in college while I was doing the pre-med program. After 1 class, I became obsessed. I switched majors the next semester and never looked back. Since then I've spent 10+ hours a day learning everything I can about the web and software engineering. I love the challenges and problems that can be solved with code. Its incredibly stimulating for me. I spend much of my free time trying out new technologies, working on side projects and reading. Outside of programming, my field of interest is wide; I pick up a new hobby every 6 months or so. I love reading (philosophy, science, history), Lake Powell, yard games and spending time with family and friends. I consider myself an ambivert: I'm recharged by conversation and collaboration, but I also have no problem being a loner if needs be. 
+I fell in love with programming after taking a programming class in college while I was doing the pre-med program. After 1 class, I became obsessed. I switched majors the next semester and never looked back. Since then I've spent 10+ hours a day learning everything I can about the web and software engineering. I love the challenges and problems that can be solved with code. Its incredibly stimulating for me. I spend much of my free time trying out new technologies, working on side projects and reading. Outside of programming, my field of interest is wide; I pick up a new hobby every 6 months or so. I love reading (philosophy, science, history), Lake Powell, yard games and spending time with family and friends. I consider myself an ambivert: I'm recharged by conversation and collaboration, but I'm also a blissful loner on occasion. 
 
 ## Work Experience
-5+ years of professional programming experience mainly as a backend/web services engineer
+5+ years of professional programming experience, mainly as a backend/web services engineer. In that time I've also started a couple of businesses, been a teacher and tech coach, and a scrum product owner. 
 
 ### Scrum Product Owner + Web Services Engineer at busybusy [March 2018 - Present]
 - Product owner of a data and engineering team taking feature requests for internal stakeholders and client developers
@@ -14,12 +14,15 @@ I fell in love with programming after taking a programming class in college whil
 ### Lead Tech Coach at Techie For Life [July 2017 - Present]
 - Actively mentors and teaches neuro-atypical students
 - Responsible for teaching students a variety of topics, from web basics, to developing advanced real world projects
-- Creates and maintains a repository of curriculum for students with projects, challenges and lessons.
+- Creates and maintains a repository of curriculum for students with projects, challenges and lessons
 - Works daily with 5+ students at a time to create unique tailor fit plans for student success
 
-### Web Services Engineer at busybusy [December 2014 - March 2018]
-- Works as a Web Services Engineer, creating applications and services for client developers. 
-- Have become proficient in php and Kotlin, emphasizing modern web practices like unit testing, REST, SOLID design and other industry best practices. 
+### Web Services Engineer at busybusy [December 2014 - Present]
+- Works as a Web Services Engineer, creating applications and services for client developers
+- Built and maintains an ad-hoc reporting system that aggregates multi dimensional time data while applying a robust and complex set of overtime rules in real time and for arbitrary date ranges
+- Have become proficient in php and Kotlin, emphasizing modern web practices like unit testing, REST, SOLID design and other industry best practices.
+- Have designed and implemented complex systems that use dozens of Amazon's cloud services
+- Been responsible for managing testing and production database systems. 
 - Have become proficient in working in a team, being in constant communication with them to solve problems and architect solutions. 
 
 ### Part owner at Pure Pickleball [October 2014 - Present]
@@ -44,7 +47,7 @@ I've spent most of my career designing, developing, deploying and maintaining we
 - php
 - Kotlin
 - Git
-- MySQL
+- MySQL and RDBMS design
 - HTML/CSS
 - RESTful design
 - Cloud service architecture (AWS)
@@ -57,14 +60,6 @@ I've spent most of my career designing, developing, deploying and maintaining we
 - Scrum methodology
 - SOLID design principles
 - Data modeling for analytics
-
-- Designing and implementing RESTful API’s
-- Relational database design principles and management
-- Proficient in Kotlin and php
-- Architecture and Infrastructure in AWS
-- Notable mentions: Python and Javascript
-- SOLID design principles
-- Managing a scrum team
 
 ## Education
 ### Dixie State University [2012 – 2016]

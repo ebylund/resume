@@ -51,7 +51,6 @@ I've spent most of my career designing, developing, deploying and maintaining we
 - HTML/CSS
 - RESTful design
 - Cloud service architecture (AWS)
-- Microservice Systems design
 
 ### Mildly Dangerous
 - Javascript
@@ -60,6 +59,8 @@ I've spent most of my career designing, developing, deploying and maintaining we
 - Scrum methodology
 - SOLID design principles
 - Data modeling for analytics
+- Ruby [on Rails]
+
 
 ## Education
 ### Dixie State University [2012 – 2016]

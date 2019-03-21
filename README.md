@@ -1,9 +1,10 @@
 # Erik Bylund
 
 ## A bit about me
+I fell in love with programming after taking a programming class in college while I was doing the pre-med program. After 1 class, I became obsessed. I switched majors the next semester and never looked back. Since then I've spent 10+ hours a day learning everything I can about the web and software engineering. I love the challenges and problems that can be solved with code. Its incredibly stimulating for me. I spend much of my free time trying out new technologies, working on side projects and reading. Outside of programming, my field of interest is wide; I pick up a new hobby every 6 months or so. I love reading (philosophy, science, history), Lake Powell, yard games and spending time with family and friends. I consider myself an ambivert: I'm recharged by conversation and collaboration, but I also have no problem being a loner if needs be. 
 
 ## Work Experience
-5+ years of professional programming experience
+5+ years of professional programming experience mainly as a backend/web services engineer
 
 ### Scrum Product Owner + Web Services Engineer at busybusy [March 2018 - Present]
 - Product owner of a data and engineering team taking feature requests for internal stakeholders and client developers
@@ -66,7 +67,6 @@ I've spent most of my career designing, developing, deploying and maintaining we
 - Managing a scrum team
 
 ## Education
-
 ### Dixie State University [2012 – 2016]
 
 - Bachelor's degree in CIT  with a Web Design and Development emphasis. 
@@ -75,5 +75,5 @@ I've spent most of my career designing, developing, deploying and maintaining we
 - CIT Atkins Foundation Scholarship
 
 ### Code School at Dixie State University [2014]
-- 14 week coding bootcamp 
+- 14 week (600+ hours) coding bootcamp
 - became familiar with Ruby on Rails, Javascript, Python and full stack web app development

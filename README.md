@@ -55,7 +55,7 @@ I've spent most of my career designing, developing, deploying and maintaining we
 ### Proficient
 
 - php
-- Kotlin
+- Kotlin (JVM, Serverside)
 - Git
 - MySQL and RDBMS design
 - HTML/CSS
@@ -84,4 +84,4 @@ I've spent most of my career designing, developing, deploying and maintaining we
 ### Code School at Dixie State University [2014]
 
 - 14 week (600+ hours) coding bootcamp
-- became familiar with Ruby on Rails, Javascript, Python and full stack web app development
+- Became familiar with Ruby on Rails, Javascript, Python and full stack web app development
